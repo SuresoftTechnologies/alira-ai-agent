@@ -1,0 +1,10 @@
+{
+  "name": "alira",
+  "version": "0.1.0",
+  "description": "Generate software design documents (SDD) from C source code with the ALIRA service. Uploads the C project you choose to the ALIRA server at alira-ai.ai and saves the result as Word or Markdown. Requires an ALIRA account. ALIRA is a paid service with a free trial; the MIT license covers this repository only.",
+  "mcpServers": {
+    "alira": {
+      "httpUrl": "https://alira-ai.ai/mcp"
+    }
+  }
+}

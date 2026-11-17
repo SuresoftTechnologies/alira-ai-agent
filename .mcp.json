@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "alira": {
+      "type": "http",
+      "url": "https://alira-ai.ai/mcp"
+    }
+  }
+}

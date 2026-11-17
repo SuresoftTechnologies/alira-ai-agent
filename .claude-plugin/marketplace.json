@@ -1,0 +1,26 @@
+{
+  "name": "suresofttech-alira",
+  "description": "Suresoft Technologies ALIRA plugin for AI coding agents",
+  "owner": {
+    "name": "Suresoft Technologies Inc.",
+    "email": "alira@suresofttech.com",
+    "url": "https://www.suresofttech.com"
+  },
+  "plugins": [
+    {
+      "name": "alira",
+      "description": "Generate software design documents (SDD) from C source code with the ALIRA service. Uploads the C project you choose to the ALIRA server at alira-ai.ai and saves the result as Word or Markdown. Requires an ALIRA account. ALIRA is a paid service with a free trial; the MIT license covers this repository only.",
+      "source": "./",
+      "category": "documentation",
+      "tags": [
+        "alira",
+        "sdd",
+        "software-design-document",
+        "detailed-design",
+        "documentation",
+        "c",
+        "embedded"
+      ]
+    }
+  ]
+}

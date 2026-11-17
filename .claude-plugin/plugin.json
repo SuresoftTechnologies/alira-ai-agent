@@ -1,0 +1,33 @@
+{
+  "name": "alira",
+  "displayName": "ALIRA",
+  "version": "0.1.0",
+  "description": "Generate software design documents (SDD) from C source code with the ALIRA service. Uploads the C project you choose to the ALIRA server at alira-ai.ai and saves the result as Word or Markdown. Requires an ALIRA account. ALIRA is a paid service with a free trial; the MIT license covers this repository only.",
+  "author": {
+    "name": "Suresoft Technologies Inc.",
+    "email": "alira@suresofttech.com",
+    "url": "https://www.suresofttech.com"
+  },
+  "homepage": "https://alira-ai.ai",
+  "repository": "https://github.com/SuresoftTechnologies/alira-ai-agent",
+  "license": "MIT",
+  "keywords": [
+    "alira",
+    "sdd",
+    "software-design-document",
+    "detailed-design",
+    "documentation",
+    "c",
+    "embedded",
+    "function-summary",
+    "flowchart",
+    "requirements",
+    "call-graph",
+    "suresoft"
+  ],
+  "icon": "./assets/alira.png",
+  "documentationUrl": "https://github.com/SuresoftTechnologies/alira-ai-agent#readme",
+  "supportUrl": "https://alira-ai.ai/contact",
+  "privacyPolicyUrl": "https://github.com/SuresoftTechnologies/alira-ai-agent/blob/main/PRIVACY.md",
+  "termsOfServiceUrl": "https://alira-ai.ai/legal?doc=terms"
+}

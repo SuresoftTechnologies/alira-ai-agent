@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.SuresoftTechnologies/alira-ai-agent",
+  "title": "ALIRA SDD",
+  "description": "Paid service: software design documents (SDD) from C source code, as Word or Markdown.",
+  "websiteUrl": "https://alira-ai.ai",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/SuresoftTechnologies/alira-ai-agent",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://alira-ai.ai/mcp"
+    }
+  ]
+}

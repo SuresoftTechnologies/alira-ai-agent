@@ -1,0 +1,27 @@
+# Local agent guides and notes, not part of the plugin
+CLAUDE.md
+AGENTS.md
+GEMINI.md
+docs/
+
+# Local agent and editor settings
+.claude/
+.cursor/
+.vscode/
+.idea/
+*.code-workspace
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+__MACOSX/
+
+# Secrets and credentials
+.env*
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+*.p12
+*.pfx
